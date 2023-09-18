@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+
+html
+{
+    align-items: center;
+    height: 100%;
+    
+    width: 100%;
+    box-sizing: border-box;
+    font-family: 'Roboto',sans-serif;
+   
+
+    
+}
+body{
+    top: 40%;
+    
+  
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: 'Roboto',sans-serif;
+    background-color: white;
+    background: linear-gradient(to bottom, #333333, #dddddd);
+
+
+}
+
+
+
+
+
+.button
+{
+    
+    align-items: center;
+    border: 3px solid black;
+    box-shadow: 2px solid white;
+    padding: 20px;
+    width: 66px;
+    border-radius: 50%;
+    
+    margin: 0 3px;
+    
+    background-color:rgb(200, 197, 197) ;
+    
+    
+    
+    
+    cursor: pointer;
+}
+
+.row
+{ 
+    align-items: center;
+    margin: 8px 0;
+    font-size: 30%;
+}
+
+.row input{
+    align-items: center;
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.Eqtbutton
+{
+    background-color: orangered;
+}
+.boxed {
+    align-items:center;
+    background-color: white;
+    padding: 1% 1% 1% 1%;
+
+    width: fit-content;
+    
+    
+
+    
+    border: 1px solid black ;
+}
